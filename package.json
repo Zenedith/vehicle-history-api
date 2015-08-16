@@ -9,13 +9,11 @@
     "jstoxml": "^0.2.3",
     "jwt-simple": "^0.3.0",
     "mime": "^1.3.4",
-    "restify": "^3.0.3",
+    "restify": "^4.0.0",
     "winston": "^1.0.1",
     "winston-loggly": "^1.1.0"
   },
-  "devDependencies": {
-
-  },
+  "devDependencies": {},
   "scripts": {
     "prepublish": "npm prune",
     "test": "echo 'Missing tests' && exit 0"
