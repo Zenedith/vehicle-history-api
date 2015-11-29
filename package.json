@@ -4,7 +4,7 @@
   "description": "My restify API backend",
   "main": "./index.js",
   "dependencies": {
-    "assert-plus": "^0.1.5",
+    "assert-plus": "^0.2.0",
     "config": "^1.16.0",
     "jstoxml": "^0.2.3",
     "jwt-simple": "^0.3.1",
